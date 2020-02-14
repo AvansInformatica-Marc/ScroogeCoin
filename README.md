@@ -1,2 +1,1 @@
-# ScroogeCoin
- 
+# ScroogeCoin [![Java CI](https://github.com/AvansInformatica-Marc/ScroogeCoin/workflows/Java%20CI/badge.svg)](https://github.com/AvansInformatica-Marc/ScroogeCoin/actions?query=workflow%3A%22Java+CI%22)
